@@ -55,6 +55,12 @@ body {
   padding-top: 200px;
 }
 .tx {
-  color: rgba(240, 231, 219, 0.692);
+  color: white;
+  text-align: center;
+  border: 8px solid white; /*ขอบ*/
+  padding: 10px 12px;
+  display: inline-block;
+  border-radius: 38px;
+  background-color: #0f1986;
 }
  
