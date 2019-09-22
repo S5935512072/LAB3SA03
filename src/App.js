@@ -7,8 +7,9 @@ const word = "Hello";
 class App extends Component {
   render() {
     return (
-      <div>
+      <div className="bt">
         <WordCard value="Hello" />
+        <h1 className="tx">กดปุ่มเพื่อเรียงคำให้ถูกต้อง</h1>
       </div>
     );
   }
